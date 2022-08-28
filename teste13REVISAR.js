@@ -2,7 +2,7 @@
 
 Instruções: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup,
 
-O que eu fiz: (errrado) */
+O que eu fiz: (errado) */
 
 // Setup
 const contacts = [
