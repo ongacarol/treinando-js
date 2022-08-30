@@ -2,7 +2,7 @@ function btsMember(val) {
     let answer = "";
     // Only change code below this line
   switch (val){
-  case "Jimin":
+      case "Jimin":
         answer = "É um anjo";
         break;
       case "Junkgook":
